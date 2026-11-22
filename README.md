@@ -1,4 +1,4 @@
-##СБОРКА
+#СБОРКА
 
 Команда сборки:
 docker build -t iris-model .
